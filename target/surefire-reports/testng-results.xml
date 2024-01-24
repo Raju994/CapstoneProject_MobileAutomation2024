@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T22:24:02 IST" name="Suite" finished-at="2024-01-24T22:24:51 IST" duration-ms="49077">
+    <groups>
+    </groups>
+    <test started-at="2024-01-24T22:24:02 IST" name="Test" finished-at="2024-01-24T22:24:51 IST" duration-ms="49077">
+      <class name="capstone.Cloud">
+        <test-method is-config="true" signature="setup()[pri:0, instance:capstone.Cloud@3a93b025]" started-at="2024-01-24T22:24:02 IST" name="setup" finished-at="2024-01-24T22:24:31 IST" duration-ms="29426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginFeature()[pri:0, instance:capstone.Cloud@3a93b025]" started-at="2024-01-24T22:24:31 IST" name="verifyLoginFeature" finished-at="2024-01-24T22:24:40 IST" duration-ms="9077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeature -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:capstone.Cloud@3a93b025]" started-at="2024-01-24T22:24:40 IST" name="teardown" finished-at="2024-01-24T22:24:51 IST" duration-ms="10553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- capstone.Cloud -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
